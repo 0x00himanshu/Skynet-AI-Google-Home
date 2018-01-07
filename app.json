@@ -1,0 +1,7 @@
+{
+  "name": "Google Home - Skynet AI",
+  "description": "AI for controling devices in home using Google Home.",
+  "repository": "https://github.com/0x00himanshu/Skynet-AI-Google-Home",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["google home", "0x00himanshu", "iot", "arduino", "skynet ai"]
+}
